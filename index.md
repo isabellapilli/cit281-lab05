@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-lab05/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LAB 5
 
 ```markdown
-Syntax highlighted code block
+Lab Goals and Outcomes:
 
-# Header 1
-## Header 2
-### Header 3
+1. Download and install Postman
+2. Create a CIT 281 collection and folders
+3. Create a Node.js and fastify server application with GET and respond with JSON
+4. Add array of students object
+5. Use Postman to test server GET routes
+6. Add POST handling to server application and respond with JSON
+7. Use Postman and POST request
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- Postman
+- Terminal
+- Chrome
 
-### Jekyll Themes
+### What I Learned:
+In this lab I was able to get familiar with Postman and create a few server applications with it. I created a Node.js and Fastify server that was able to take the id, first name, and last name of a short list of students and return a request through Postman, depending on the input. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-lab05/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Files from Lab 5!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](lab03.png)
